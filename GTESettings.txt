@@ -1,0 +1,40 @@
+﻿{
+    "version": "1.3.0",
+    "twitchStyleTooltips": true,
+    "replaceYouTubeKappa": true,
+    "iframeInjection": false,
+    "unicodeEmojis": false,
+    "twitchSmilies": true,
+    "smiliesType": "Robot",
+    "useMonkeySmilies": false,
+    "twitchGlobal": true,
+    "twitchChannels": true,
+    "bttvGlobal": true,
+    "bttvChannels": true,
+    "ffzGlobal": true,
+    "ffzChannels": true,
+    "customEmotes": false,
+    "twitchChannelsList": [],
+    "bttvChannelsList": [
+        "P3NTAZ",
+        "Seremendal",
+        "Brian",
+        "Zigrin",
+        "tO_Ot",
+        "WeedTooDank",
+        "Metalproz",
+        "RAS915",
+        "t5omo"
+    ],
+    "ffzChannelsList": [
+        "Jtarts_",
+        "kvnl",
+        "rSherms",
+        "SpoohKy"
+    ],
+    "customEmotesList": [],
+    "domainFilterMode": "Blacklist",
+    "domainFilterList": [],
+    "emoteFilterMode": "Blacklist",
+    "emoteFilterList": []
+}
